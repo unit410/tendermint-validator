@@ -15,7 +15,7 @@ import (
 	tmjson "github.com/tendermint/tendermint/libs/json"
 	tmOS "github.com/tendermint/tendermint/libs/os"
 	"github.com/tendermint/tendermint/privval"
-	tsed25519 "gitlab.com/polychainlabs/threshold-ed25519/pkg"
+	tsed25519 "gitlab.com/unit410/threshold-ed25519/pkg"
 )
 
 func main() {

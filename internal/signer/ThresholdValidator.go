@@ -11,7 +11,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	tmProto "github.com/tendermint/tendermint/proto/tendermint/types"
 	tm "github.com/tendermint/tendermint/types"
-	tsed25519 "gitlab.com/polychainlabs/threshold-ed25519/pkg"
+	tsed25519 "gitlab.com/unit410/threshold-ed25519/pkg"
 )
 
 type ThresholdValidator struct {

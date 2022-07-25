@@ -8,6 +8,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.34.3
-	gitlab.com/polychainlabs/edwards25519 v0.0.0-20200206000358-2272e01758fb
-	gitlab.com/polychainlabs/threshold-ed25519 v0.0.0-20200221030822-1c35a36a51c1
+	gitlab.com/unit410/edwards25519 v0.0.0-20220725154547-61980033348e
+	gitlab.com/unit410/threshold-ed25519 v0.0.0-20220725172740-6ee731f539ac
 )
