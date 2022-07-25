@@ -11,7 +11,7 @@ import (
 	tmCryptoEd25519 "github.com/tendermint/tendermint/crypto/ed25519"
 	tmProto "github.com/tendermint/tendermint/proto/tendermint/types"
 	tm "github.com/tendermint/tendermint/types"
-	tsed25519 "gitlab.com/polychainlabs/threshold-ed25519/pkg"
+	tsed25519 "gitlab.com/unit410/threshold-ed25519/pkg"
 )
 
 func TestThresholdValidator2of2(test *testing.T) {
